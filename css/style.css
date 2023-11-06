@@ -1,0 +1,36 @@
+.center{
+    text-align: center;
+}
+
+q{
+    font-size: 1.2em;
+    color:silver;
+}
+
+p{
+    font-size: 1.5em;
+}
+
+button {
+    height: 50px;
+    background-color: red;
+    border-radius: 5px;
+}
+
+.button{
+    display: flex;
+    flex-direction: column;  
+    align-items: center;
+}
+
+#up{
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+}
+
+#down{
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+}
